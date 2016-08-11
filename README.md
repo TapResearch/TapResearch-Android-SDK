@@ -9,4 +9,6 @@ Other platforms:
 [TapResearch iOS SDK](https://github.com/TapResearch/TapResearch-iOS-SDK)  
 [TapResearch iOS SDK integration guide](https://www.tapresearch.com/docs/ios-integration-guide)
 
+[TapResearch Unity SDK integration guide](https://www.tapresearch.com/docs/unity-integration-guide)
+
 [TapResearch JavaScript SDK integration guide](https://www.tapresearch.com/docs/javascript-integration-guide)  
