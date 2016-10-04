@@ -12,7 +12,7 @@ For additional information, please see the [TapResearch Android SDK integration 
     - OnSurveyDialogDismissed(boolean cancelled) has been removed.
     - Added OnSurveyModalOpened()
     - Added OnSurveyModalClosed()
-  - showSurvey() now starts a new activity. Remember to update the AndroidManifest.xml. See the integration guide for further instructions.
+  - showSurvey() now starts a new activity -- remember to update your AndroidManifest.xml file. See the integration guide for further instructions.
 
 Other platforms:
 
