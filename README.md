@@ -7,7 +7,7 @@ For additional information, please see the [TapResearch Android SDK integration 
 - In-app webviews! Your users will stay inside the app as they complete TapResearch surveys.
 - Multi-language support
 - Bug fixes
-- Breaking changes:
+- **Important changes**:
   - TapResearchShowSurveyListener has been renamed to TapResearchSurveyListener
     - OnSurveyDialogDismissed(boolean cancelled) has been removed.
     - Added OnSurveyModalOpened()
