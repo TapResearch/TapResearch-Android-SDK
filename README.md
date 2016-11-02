@@ -3,6 +3,12 @@ TapResearch Android SDK v1.2.1
 
 For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android-integration-guide).
 
+## v1.2.2
+- Bug fixes
+- **Important** Please update the TRSurveyActivity definition in your AndroidManifest.xml file.
+  - Old: `<activity android:name="com.tapr.internal.c.TRSurveyActivity" android:theme="@android:style/Theme.Holo.Light" />`
+  - New: `<activity android:name="com.tapr.internal.c.TRSurveyActivity" android:configChanges="orientation|keyboardHidden|screenSize" android:theme="@android:style/Theme.Holo.Light" />`
+
 ## v1.2.1
 - TRSurveyActivity no longer inherits from AppCompatActivity. Remember to update your AndroidManifest.xml file to use the new activity definition found in the integration guide.
 
