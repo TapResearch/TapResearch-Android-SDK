@@ -1,7 +1,10 @@
 # TapResearch-Android-SDK
-TapResearch Android SDK v1.2.3
+TapResearch Android SDK v1.2.4
 
 For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android-integration-guide).
+
+## v1.2.4
+- Bug fixes.
 
 ## v1.2.3
 - The orientation for TRSurveyActivity is now set to `SCREEN_ORIENTATION_SENSOR`. This allows users to take surveys in either portrait or landscape mode. 
