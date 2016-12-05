@@ -1,7 +1,10 @@
 # TapResearch-Android-SDK
-TapResearch Android SDK v1.2.4
+TapResearch Android SDK v1.2.5
 
 For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android-integration-guide).
+
+## v1.2.5
+- The SDK is now compatible with Amazon devices.
 
 ## v1.2.4
 - Bug fixes.
