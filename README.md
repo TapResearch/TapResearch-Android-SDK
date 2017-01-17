@@ -3,6 +3,11 @@ TapResearch Android SDK v1.2.5
 
 For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android-integration-guide).
 
+## v1.2.6
+- Bug fixes.
+- Please update the TRSurveyActivity definition to enable hardware acceleration.
+  - `<activity android:name="com.tapr.internal.c.TRSurveyActivity" android:hardwareAccelerated="true" android:configChanges="orientation|keyboardHidden|screenSize" android:theme="@android:style/Theme.Holo.Light" />`
+
 ## v1.2.5
 - The SDK is now compatible with Amazon devices.
 
