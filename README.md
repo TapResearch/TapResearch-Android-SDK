@@ -3,6 +3,10 @@ TapResearch Android SDK v1.2.7
 
 For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android-integration-guide).
 
+## v1.3.0
+- Gradle installtion
+
+
 ## v1.2.7
 - Added two additional survey listener callbacks. 
   - onSurveyAvailable()
