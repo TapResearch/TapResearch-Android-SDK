@@ -4,11 +4,17 @@ TapResearch Android SDK v1.2.7
 For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android-integration-guide).
 
 ## v1.3.0
-- Gradle installtion
+- Gradle integration
+- Multi currency support - please note that TapResearchOnRewardListener#onDidReceiveReward signature was changed
+``
+void onDidReceiveReward(int rewardAmount, String transactionIdentifier, String currencyName, @PayoutOptions int payoutEvent);
+``
+- Multi offers
+- Bug fixes
 
 
 ## v1.2.7
-- Added two additional survey listener callbacks. 
+- Added two additional survey listener callbacks.
   - onSurveyAvailable()
   - onSurveyNotAvailable()
 
@@ -24,7 +30,7 @@ For additional information, please see the [TapResearch Android SDK integration 
 - Bug fixes.
 
 ## v1.2.3
-- The orientation for TRSurveyActivity is now set to `SCREEN_ORIENTATION_SENSOR`. This allows users to take surveys in either portrait or landscape mode. 
+- The orientation for TRSurveyActivity is now set to `SCREEN_ORIENTATION_SENSOR`. This allows users to take surveys in either portrait or landscape mode.
 
 ## v1.2.2
 - Bug fixes
