@@ -3,6 +3,9 @@ TapResearch Android SDK v1.3.0
 
 For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android-integration-guide).
 
+## v1.3.1
+- Bug fixes
+
 ## v1.3.0
 - Gradle integration
 - Multi currency support - please note that TapResearchOnRewardListener#onDidReceiveReward signature was changed
