@@ -1,6 +1,10 @@
 # Change Log
 =============
 
+## v1.3.2
+- Fixing the survey wall exit
+- Saving the state failed in certain cases
+
 ## v1.3.1
 ---------
 - Bug fixes
