@@ -37,6 +37,8 @@ Add the following to the repositories closure of the app's module `build.gralde`
 
 [TapResearch iOS SDK integration guide](https://www.tapresearch.com/docs/ios-integration-guide)
 
+[TapResearch React Native SDK integration guide](https://www.tapresearch.com/docs/react-native-integration-guide)
+
 [TapResearch Unity SDK integration guide](https://www.tapresearch.com/docs/unity-integration-guide)
 
 [TapResearch JavaScript SDK integration guide](https://www.tapresearch.com/docs/javascript-integration-guide)  
