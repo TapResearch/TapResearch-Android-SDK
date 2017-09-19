@@ -1,6 +1,15 @@
 # Change Log
 =============
 
+## v1.3.3
+- Include offer identifier in the receive reward callback - TapResearchOnRewardListener#onDidReceiveReward signature was changed
+``
+void onDidReceiveReward(int rewardAmount, String transactionIdentifier, String currencyName, @PayoutOptions int payoutEvent, String offerIdentifier);
+``
+- Init the SDK using an Activity
+- Performance improvements
+- Bug fixes
+
 ## v1.3.2
 - Fixing the survey wall exit
 - Saving the state failed in certain cases
