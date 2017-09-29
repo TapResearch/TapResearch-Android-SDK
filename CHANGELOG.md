@@ -1,6 +1,9 @@
 # Change Log
 =============
 
+## v1.3.4
+- Android v5 ANR fix
+
 ## v1.3.3
 - Include offer identifier in the receive reward callback - TapResearchOnRewardListener#onDidReceiveReward signature was changed
 ``
