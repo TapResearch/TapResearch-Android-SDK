@@ -1,6 +1,9 @@
 # Change Log
 =============
 
+## v1.3.5
+- Fix the requests concurrency bug
+
 ## v1.3.4
 - Android v5 ANR fix
 
