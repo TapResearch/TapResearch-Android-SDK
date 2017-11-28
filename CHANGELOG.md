@@ -1,6 +1,10 @@
 # Change Log
 =============
 
+## v1.3.6
+- Refresh button in the survey wall
+- Bug fixes
+
 ## v1.3.5
 - Fix the requests concurrency bug
 
