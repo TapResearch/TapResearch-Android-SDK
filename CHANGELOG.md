@@ -1,6 +1,9 @@
 # Change Log
 =============
 
+## v1.3.7
+- Reward redeemed fix
+
 ## v1.3.6
 - Refresh button in the survey wall
 - Bug fixes
