@@ -1,5 +1,7 @@
 # Change Log
 =============
+## v1.3.8
+- Fix offer check availability
 
 ## v1.3.7
 - Reward redeemed fix
