@@ -1,5 +1,8 @@
 # Change Log
 =============
+## v1.3.9
+- Fix passing an empty offer identifier
+
 ## v1.3.8
 - Fix offer check availability
 
