@@ -1,5 +1,9 @@
 # Change Log
 =============
+## v1.4.0
+- Introduce the `TapResearchPlacementsListener`. The interface passes a placement identitifer with the survey events
+- New methods to skin the survey wall `setActionBarColor(int color)`, `setActionBarTextColor(int color)`, `setActionBarText(String text)`
+
 ## v1.3.9
 - Fix passing an empty offer identifier
 
