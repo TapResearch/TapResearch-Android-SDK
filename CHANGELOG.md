@@ -1,5 +1,9 @@
 # Change Log
 =============
+## v1.4.2
+- Crash when parsing an offer with an identifier
+- Passing offer identifier with AppSession 
+
 ## v1.4.1
 - Fix is for `isSurveyAvailable(String identifier)`
 
