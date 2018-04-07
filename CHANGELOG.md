@@ -1,5 +1,31 @@
-# Change Log
+# Changelog
 =============
+## v2.0.0
+
+**Version v2.0.0 isn't backward compatiable and will require code changes from previous versions**
+
+- Introducing TRPlacement to evaluate availability and to display the survey wall
+- Introducing TRReward to handle in app rewards
+- Bug fixes
+
+### The following methods and interfaces were removed
+
+~~~java
+
+public abstract boolean isSurveyAvailable();
+public abstract boolean isSurveyAvailable(String offerIdentifier);
+public abstract void showSurvey();
+public abstract void showSurvey(String offerIdentifier);
+public abstract void setOnRewardListener(TapResearchOnRewardListener listener);
+public abstract void setSurveyListener(TapResearchSurveyListener listener);
+public abstract void setPlacementsListener(TapResearchPlacementsListener listener);
+
+public interface TapResearchOnRewardListener
+public interface TapResearchPlacementsListener
+public interface TapResearchSurveyListener
+
+~~~
+
 ## v1.4.2
 - Crash when parsing an offer with an identifier
 - Passing offer identifier with AppSession 
