@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v2.0.1
+- Crash fix - The SDK may crash when pulling a new placement
+
 ## v2.0.0
 
 **Version v2.0.0 isn't backward compatiable and will require code changes from previous versions**
