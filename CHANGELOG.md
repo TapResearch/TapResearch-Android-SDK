@@ -5,7 +5,7 @@
 
 ## v2.0.0
 
-**Version v2.0.0 isn't backward compatiable and will require code changes from previous versions**
+**Version v2.0.0 isn't backward compatible and will require code changes from previous versions**
 
 - Introducing TRPlacement to evaluate availability and to display the survey wall
 - Introducing TRReward to handle in app rewards
