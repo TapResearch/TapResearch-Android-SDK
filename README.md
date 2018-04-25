@@ -1,5 +1,5 @@
 # TapResearch-Android-SDK
-TapResearch Android SDK v2.0.1
+TapResearch Android SDK v2.0.2
 
 For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android-integration-guide).
 
