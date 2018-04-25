@@ -1,5 +1,10 @@
 # Changelog
 =============
+## v2.0.2
+- Adding `hasHotSurvey` method to `TRPlacement`
+- Fixing the `triggered_at` attribute
+- Crash fixes
+
 ## v2.0.1
 - Crash fix - The SDK may crash when pulling a new placement
 
