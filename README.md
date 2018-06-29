@@ -1,5 +1,5 @@
 # TapResearch-Android-SDK
-TapResearch Android SDK v2.0.2
+TapResearch Android SDK v2.0.3
 
 For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android_integration_guide).
 
@@ -22,7 +22,7 @@ Add the following to the repositories closure of the app's module `build.gralde`
 
   ```groovy
     dependencies {
-      compile 'com.tapr:tapresearch:2.0.2'
+      compile 'com.tapr:tapresearch:2.0.3'
       ...
      }
   ```

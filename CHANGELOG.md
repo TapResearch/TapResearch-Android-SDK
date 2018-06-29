@@ -1,5 +1,9 @@
 # Changelog
 =============
+## v2.0.3
+- Send a placement response when the SDK isn't ready
+- Bug fixes
+
 ## v2.0.2
 - Adding `hasHotSurvey` method to `TRPlacement`
 - Fixing the `triggered_at` attribute
