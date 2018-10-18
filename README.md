@@ -9,7 +9,7 @@ Create an [app](/supplier_dashboard/dashboard/apps/new) and grab your API Token.
 
 #### Download:
 
-Add the following to the repositories closure of the app's module `build.gralde` file
+Add the following to the repositories closure of the app's module `build.gradle` file
 
 
   ```groovy
