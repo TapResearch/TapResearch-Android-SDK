@@ -1,5 +1,10 @@
 # Changelog
 =============
+## v2.0.5
+- Support more survey providers
+- Better exception reporting and handling
+- Bug fixes
+
 ## v2.0.4
 - Fix a typo in the SDK
 - Supporting Pure Spectrum surveys
