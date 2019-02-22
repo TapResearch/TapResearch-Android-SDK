@@ -1,5 +1,9 @@
 # Changelog
 =============
+## v2.0.6
+- Fix offer wall load crash
+- In app rewards race condition 
+
 ## v2.0.5
 - Support more survey providers
 - Better exception reporting and handling
