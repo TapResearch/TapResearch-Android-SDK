@@ -1,5 +1,10 @@
 # Changelog
 =============
+## v2.0.7
+- Fix: Check rewards when SDK initialized
+- Fix: Crash on 4.+ devices
+- Support Local Storage
+
 ## v2.0.6
 - Fix offer wall load crash
 - In app rewards race condition 
