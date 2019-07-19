@@ -22,7 +22,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
 
   ```groovy
     dependencies {
-      compile 'com.tapr:tapresearch:2.0.7'
+      compile 'com.tapr:tapresearch:2.0.8'
       ...
      }
   ```

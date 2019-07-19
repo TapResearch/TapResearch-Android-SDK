@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v2.0.8
+- Fix: Protect from unsecure survey urls
+
 ## v2.0.7
 - Fix: Check rewards when SDK initialized
 - Fix: Crash on 4.+ devices
