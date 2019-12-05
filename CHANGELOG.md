@@ -1,5 +1,9 @@
 # Changelog
 =============
+## v2.0.9
+- Fixes to support more surveys
+- Undo the unsecure urls fix 
+
 ## v2.0.8
 - Fix: Protect from unsecure survey urls
 
