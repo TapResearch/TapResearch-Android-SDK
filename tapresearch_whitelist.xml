@@ -25,8 +25,8 @@
         <domain includeSubdomains="true">surveygizmo.com</domain>
         <domain includeSubdomains="true">reviewrobin.com</domain>
         <domain includeSubdomains="true">survey.questmindshare.com</domain>
-        <domain includeSubdomains="true">speanutlabs.com</domain>
-        <domain includeSubdomains="true">squaltrics.com</domain>
+        <domain includeSubdomains="true">peanutlabs.com</domain>
+        <domain includeSubdomains="true">qualtrics.com</domain>
     </domain-config>
 </network-security-config>
 
