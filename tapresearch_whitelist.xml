@@ -2,31 +2,33 @@
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">samplicio.us</domain>
-        <domain includeSubdomains="true">s.cint.com</domain>
-        <domain includeSubdomains="true">morningconsult.az1.qualtrics.com</domain>
+        <domain includeSubdomains="true">cint.com</domain>
+        <domain includeSubdomains="true">qualtrics.com</domain>
         <domain includeSubdomains="true">spectrumsurveys.com</domain>
-        <domain includeSubdomains="true">morningconsult.qualtrics.com</domain>
-        <domain includeSubdomains="true">cops.lucidhq.com</domain>
-        <domain includeSubdomains="true">dkr1.ssisurveys.com</domain>
-        <domain includeSubdomains="true">surveys.paradigmsample.com</domain>
-        <domain includeSubdomains="true">ups.surveyrouter.com</domain>
-        <domain includeSubdomains="true">selfserve.decipherinc.com</domain>
-        <domain includeSubdomains="true">websurvey5.opinionbar.com</domain>
-        <domain includeSubdomains="true">www.opinionetwork.com</domain>
-        <domain includeSubdomains="true">schlesinger.focusvision.com</domain>
-        <domain includeSubdomains="true">ca1.qualtrics.com</domain>
+        <domain includeSubdomains="true">decipherinc.com</domain>
+        <domain includeSubdomains="true">ssisurveys.com</domain>
+        <domain includeSubdomains="true">lucidhq.com</domain>
+        <domain includeSubdomains="true">paradigmsample.com</domain>
+        <domain includeSubdomains="true">focusvision.com</domain>
+        <domain includeSubdomains="true">vi.ga</domain>
+        <domain includeSubdomains="true">opinionetwork.com</domain>
+        <domain includeSubdomains="true">surveyrouter.com</domain>
+        <domain includeSubdomains="true">opinionbar.com</domain>
         <domain includeSubdomains="true">prsrvy.com</domain>
         <domain includeSubdomains="true">ptrack1.com</domain>
-        <domain includeSubdomains="true">surveys.globaltestmarket.com</domain>
-        <domain includeSubdomains="true">emea.focusvision.com</domain>
-        <domain includeSubdomains="true">pod.prodegemr.com</domain>
+        <domain includeSubdomains="true">globaltestmarket.com</domain>
+        <domain includeSubdomains="true">eocucom.com</domain>
+        <domain includeSubdomains="true">prodegemr.com</domain>
         <domain includeSubdomains="true">swagbucks.com</domain>
-        <domain includeSubdomains="true">insitesemea.decipherinc.com</domain>
+        <domain includeSubdomains="true">sgizmo.com</domain>
         <domain includeSubdomains="true">surveygizmo.com</domain>
         <domain includeSubdomains="true">reviewrobin.com</domain>
-        <domain includeSubdomains="true">survey.questmindshare.com</domain>
+        <domain includeSubdomains="true">questmindshare.com</domain>
         <domain includeSubdomains="true">peanutlabs.com</domain>
-        <domain includeSubdomains="true">qualtrics.com</domain>
+        <domain includeSubdomains="true">marketknowledgesurveys.com</domain>
+        <domain includeSubdomains="true">dubinterviewer.com</domain>
+        <domain includeSubdomains="true">confirmit.com</domain>
+        <domain includeSubdomains="true">survia.com</domain>
+        <domain includeSubdomains="true">insights.supply</domain>
     </domain-config>
 </network-security-config>
-
