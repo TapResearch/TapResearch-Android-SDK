@@ -21,7 +21,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
 
   ```groovy
     dependencies {
-      compile 'com.tapr:tapresearch:2.0.9'
+      compile 'com.tapr:tapresearch:2.0.10'
       ...
      }
   ```
@@ -39,5 +39,4 @@ Add the following to the repositories closure of the app's module `build.gradle`
 [TapResearch React Native SDK integration guide](https://www.tapresearch.com/docs/react-native-integration-guide)
 
 [TapResearch Unity SDK integration guide](https://www.tapresearch.com/docs/unity-integration-guide)
-
-[TapResearch JavaScript SDK integration guide](https://www.tapresearch.com/docs/javascript_integration_guide)  
+  

@@ -1,5 +1,11 @@
 # Changelog
 =============
+## v2.0.10
+- Custome plcement parameters
+- cleartext whitelist for SDK level 28 and above
+- Handling native webview crashes
+- Remove the webview zoom widget
+
 ## v2.0.9
 - Fixes to support more surveys
 - Undo the unsecure urls fix 
