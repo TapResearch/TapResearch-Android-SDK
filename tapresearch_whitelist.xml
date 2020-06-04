@@ -30,5 +30,6 @@
         <domain includeSubdomains="true">confirmit.com</domain>
         <domain includeSubdomains="true">survia.com</domain>
         <domain includeSubdomains="true">insights.supply</domain>
+        <domain includeSubdomains="true">roirocket.com</domain>
     </domain-config>
 </network-security-config>
