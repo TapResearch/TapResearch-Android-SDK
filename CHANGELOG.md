@@ -1,8 +1,8 @@
 # Changelog
 =============
 ## v2.0.10
-- Custome plcement parameters
-- cleartext whitelist for SDK level 28 and above
+- Custom placement parameters
+- Cleartext whitelist for SDK level 28 and above
 - Handling native webview crashes
 - Remove the webview zoom widget
 
