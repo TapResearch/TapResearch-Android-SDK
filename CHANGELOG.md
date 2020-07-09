@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v2.0.11
+- Fix: remove obfuscation from custom paramerters objects
+
 ## v2.0.10
 - Custom placement parameters
 - Cleartext whitelist for SDK level 28 and above
