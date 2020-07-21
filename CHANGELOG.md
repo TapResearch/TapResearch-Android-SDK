@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v2.0.12
+- Fix: Failed to embed the support library
+
 ## v2.0.11
 - Fix: remove obfuscation from custom paramerters objects
 
