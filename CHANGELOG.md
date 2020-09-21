@@ -1,5 +1,10 @@
 # Changelog
 =============
+## v2.0.13
+- Added Remote error logging
+- Google Play Services is now optional and will not be embededd but will use the on that is used in the app
+- Performance enhancements 
+
 ## v2.0.12
 - Fix: Failed to embed the support library
 
