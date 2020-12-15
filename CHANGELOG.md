@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v2.0.14
+- Clean up an empty network certificate warning 
+
 ## v2.0.13
 - Added Remote error logging
 - Google Play Services is now optional and will not be embededd but will use the on that is used in the app
