@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v2.0.15
+- ANR Fix
+
 ## v2.0.14
 - Clean up an empty network certificate warning 
 
