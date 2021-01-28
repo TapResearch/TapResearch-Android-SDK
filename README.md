@@ -4,11 +4,11 @@ For additional information, please see the [TapResearch Android SDK integration 
 
 ## Setup
 
-Create an [app](https://www.tapresearch.com/supplier_dashboard/dashboard/apps/new) and grab your API Token.
+Create an [app](https://www.tapresearch.com/supplier_dashboard/overview) and grab your API Token.
 
 #### Download:
 
-Add the following to the repositories closure of the app's module `build.gradle` file
+Add the following to the repositories closure of the app's module `build.gradle` file:
 
 
   ```groovy
@@ -17,7 +17,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
       ...
     }
   ```
-  Next, add the following to the dependencies closure
+  Next, add the following to the dependencies closure:
 
   ```groovy
     dependencies {
@@ -26,7 +26,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
      }
   ```
 
-  And synchronize the project with the gradle files
+  And synchronize the project with the gradle files.
 
   #### Manual:
 
