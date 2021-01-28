@@ -1,6 +1,6 @@
 # TapResearch-Android-SDK
 
-For additional information, please see the [TapResearch Android SDK integration guide](https://www.tapresearch.com/docs/android_integration_guide).
+For additional information, please see the [TapResearch Android SDK integration guide](https://supply-docs.tapresearch.com/docs/android-integration).
 
 ## Setup
 
@@ -34,9 +34,9 @@ Add the following to the repositories closure of the app's module `build.gradle`
 
 ## Other platforms:
 
-[TapResearch iOS SDK integration guide](https://www.tapresearch.com/docs/ios-integration-guide)
+[TapResearch iOS SDK integration guide](https://supply-docs.tapresearch.com/docs/ios-integration)
 
-[TapResearch React Native SDK integration guide](https://www.tapresearch.com/docs/react-native-integration-guide)
+[TapResearch React Native SDK integration guide](https://supply-docs.tapresearch.com/docs/react-integration)
 
-[TapResearch Unity SDK integration guide](https://www.tapresearch.com/docs/unity-integration-guide)
+[TapResearch Unity SDK integration guide](https://supply-docs.tapresearch.com/docs/unity-integration)
   
