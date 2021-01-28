@@ -4,7 +4,7 @@ For additional information, please see the [TapResearch Android SDK integration 
 
 ## Setup
 
-Create an [app](/supplier_dashboard/dashboard/apps/new) and grab your API Token.
+Create an [app](https://www.tapresearch.com/supplier_dashboard/dashboard/apps/new) and grab your API Token.
 
 #### Download:
 
