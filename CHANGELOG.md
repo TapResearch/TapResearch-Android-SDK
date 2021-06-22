@@ -1,5 +1,9 @@
 # Changelog
 =============
+## v2.2.0
+- Networking improvements
+- Response time optimization for in-app callback
+
 ## v2.0.15
 - ANR Fix
 
