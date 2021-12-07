@@ -21,7 +21,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
 
   ```groovy
     dependencies {
-      compile 'com.tapr:tapresearch:2.3.1'
+      compile 'com.tapr:tapresearch:2.4.0'
       ...
      }
   ```
