@@ -1,5 +1,10 @@
 # Changelog
 =============
+## v2.5+
+- New Events Placement feature
+- isEventAvailable method to check availability
+- bug fix when passing null or non-null for customParameters and SurveyListener
+
 ## v2.2.0
 - Networking improvements
 - Response time optimization for in-app callback
