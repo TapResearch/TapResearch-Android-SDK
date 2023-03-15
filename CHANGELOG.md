@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v2.5.7
+- Bug fixes for SurveyWall crashes
+
 ## v2.5+
 - New Events Placement feature
 - isEventAvailable method to check availability
