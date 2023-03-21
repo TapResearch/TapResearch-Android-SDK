@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v2.5.8
+- Bug fix for SurveyWall Orientation lock
+
 ## v2.5.7
 - Bug fixes for SurveyWall crashes
 
