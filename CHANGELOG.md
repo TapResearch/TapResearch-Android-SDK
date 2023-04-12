@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v2.5.9
+- Bug fixes for SurveyPresenter instantiation.
+
 ## v2.5.8
 - Bug fix for SurveyWall Orientation lock
 
