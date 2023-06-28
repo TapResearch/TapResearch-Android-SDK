@@ -21,7 +21,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
 
   ```groovy
     dependencies {
-      implementation 'com.tapr:tapresearch:2.5.9'
+      implementation("com.tapresearch:tapsdk:3.0.0-beta4")
       ...
      }
   ```
@@ -30,7 +30,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
 
   #### Manual:
 
-  Download the latest version of the [TapResearch Android SDK](https://github.com/TapResearch/TapResearch-Android-SDK) and drop **tapresearch.aar** to the lib folder
+  Download the latest version of the [TapResearch Android SDK](https://github.com/TapResearch/TapResearch-Android-SDK) and drop **tapsdk.aar** to the lib folder
 
 ## Other platforms:
 

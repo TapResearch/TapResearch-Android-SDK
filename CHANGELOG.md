@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v3.0.0-beta4
+- Updates and fixes for java interoperability. 
+
 ## v2.5.9
 - Bug fixes for SurveyPresenter instantiation.
 
