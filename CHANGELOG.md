@@ -2,6 +2,11 @@
 =============
 ## v3.0.0-beta4
 - Updates and fixes for java interoperability. 
+- SDK rewritten for stability, simplicity, and performance.
+- Added ability for some realtime feature updates and bug fixes.
+- Partial screen interstitials and banners.
+- Removed the need to store placement objects.
+- Improved error reporting.
 
 ## v2.5.9
 - Bug fixes for SurveyPresenter instantiation.
