@@ -1,5 +1,7 @@
 # Changelog
 =============
+## v3.0.0-beta5
+- Bug fixes for Java interoperability
 ## v3.0.0-beta4
 - Updates and fixes for java interoperability. 
 - SDK rewritten for stability, simplicity, and performance.
