@@ -1,5 +1,10 @@
 # Changelog
 =============
+## v3.1.0-beta1
+- Add feature to send dedicated user attributes
+- Bug fix for content callbacks
+- Add sdk ready callbacks
+
 ## v3.0.0-beta6
 - Fix potential memory leaks.
 - Add mechanisms for code quality improvements and refinement.
