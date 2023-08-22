@@ -21,7 +21,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
 
   ```groovy
     dependencies {
-      implementation("com.tapresearch:tapsdk:3.1.0-beta1")
+      implementation("com.tapresearch:tapsdk:3.1.0-beta2")
       ...
      }
   ```
