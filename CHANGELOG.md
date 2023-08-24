@@ -1,5 +1,7 @@
 # Changelog
 =============
+## v3.1.0-beta3
+- Update callbacks
 ## v3.1.0-beta2
 - Update custom params
 - Enable error callbacks from backend
