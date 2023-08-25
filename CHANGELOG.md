@@ -1,10 +1,15 @@
 # Changelog
 =============
+## v3.1.0-beta4
+- Fix bug with reward and error callbacks
+
 ## v3.1.0-beta3
 - Update callbacks
+
 ## v3.1.0-beta2
 - Update custom params
 - Enable error callbacks from backend
+
 ## v3.1.0-beta1
 - Add feature to send dedicated user attributes
 - Bug fix for content callbacks
