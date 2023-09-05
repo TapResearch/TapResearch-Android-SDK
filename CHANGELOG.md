@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v3.1.0-beta5
+- Update headers for device id
+
 ## v3.1.0-beta4
 - Fix bug with reward and error callbacks
 
