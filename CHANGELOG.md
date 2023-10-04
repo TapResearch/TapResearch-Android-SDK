@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v3.1.0-beta6
+- Custom params optimizaiton
+
 ## v3.1.0-beta5
 - Update headers for device id
 
