@@ -1,5 +1,9 @@
 # Changelog
 =============
+## v3.1.0-beta7
+- Update minSdk to api 24
+- Fix compatiblity with Android api below 33
+
 ## v3.1.0-beta6
 - Custom params optimizaiton
 
