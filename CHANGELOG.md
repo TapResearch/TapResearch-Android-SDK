@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v3.1.1-beta1
+- Bug Fixes
+
 ## v3.1.0-beta8
 - Move content callbacks out of SDK init
 
