@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v3.1.1-beta6
+- Bug Fixes
+
 ## v3.1.1-beta3
 - Bug Fixes
 
