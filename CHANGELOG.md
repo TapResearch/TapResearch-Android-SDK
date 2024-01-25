@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v3.2.1
+- Add quick question capability, stability updates
+
 ## v3.1.1-beta6
 - Bug Fixes
 
