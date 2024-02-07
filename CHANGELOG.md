@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v3.2.2
+- Bug fixes, offer navigation improvements
+
 ## v3.2.1
 - Add quick question capability, stability updates
 
