@@ -1,5 +1,7 @@
 # Changelog
 =============
+## v3.2.3
+- Bug fixes, logging improvements
 ## v3.2.2
 - Bug fixes, offer navigation improvements
 
