@@ -1,6 +1,6 @@
 # TapResearch-Android-SDK
 
-For additional information, please see the [TapResearch Android SDK integration guide](https://supply-docs.tapresearch.com/docs/android-integration).
+For additional information, please see the [TapResearch Android SDK integration guide](https://supply-docs.tapresearch.com/docs/3.x/basic-integration/sdk-integration/android).
 
 ## Setup
 
