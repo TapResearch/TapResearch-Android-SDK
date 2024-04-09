@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v3.2.5
+- Stability updates, improved error handling
+
 ## v3.2.4
 - Fraud-protection, stability updates, performance improvements
 
