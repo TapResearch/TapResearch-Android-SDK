@@ -1,5 +1,8 @@
 # Changelog
 =============
+## v3.2.6
+- Added screen rotate button for phones. Tablet & stability improvements
+
 ## v3.2.5
 - Stability updates, improved error handling
 
