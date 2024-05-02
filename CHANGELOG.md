@@ -1,6 +1,9 @@
 # Changelog
-(click on the version to see repository artifacts, aar files, etc)
 =============
+
+(click on the version to see the repository artifacts, aar files, etc)
+
+
 ## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.2.7">v3.2.7</a>
 - Improved sdk ready callback logic
 
