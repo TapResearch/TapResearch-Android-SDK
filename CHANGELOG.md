@@ -1,12 +1,15 @@
 # Changelog
 =============
-## v3.2.6
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.2.7">v3.2.7</a>
+- Improved sdk ready callback logic
+
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.2.6">v3.2.6</a>
 - Added screen rotate button for phones. Tablet & stability improvements
 
-## v3.2.5
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.2.5">v3.2.5</a>
 - Stability updates, improved error handling
 
-## v3.2.4
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.2.4">v3.2.4</a>
 - Fraud-protection, stability updates, performance improvements
 
 ## v3.2.3
