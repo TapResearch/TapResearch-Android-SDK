@@ -3,6 +3,12 @@
 
 (click on the version to see the repository artifacts, aar files, etc)
 
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.2.9">v3.2.9</a>
+- Ability to detect if the app is a react native integration and it’s plugin version
+- Ability to detect if underlying survey subsystem has encountered errors and recover and/or fail gracefully.
+- Ability to remotely toggle showContentForPlacement ‘retry’ if encounter internal error.
+- Added a screen-on listener so the SDK can preemptively determine its state and recover, if necessary.
+- Log SDK error events in order to better diagnose issues and make future improvements.
 
 ## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.2.7">v3.2.7</a>
 - Improved sdk ready callback logic
