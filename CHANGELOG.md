@@ -3,6 +3,12 @@
 
 (click on the version to see the repository artifacts, aar files, etc)
 
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.3.0">v3.3.0</a>
+- Handle rare error conditions gracefully, such as the unforeseen inability to create new WebView object
+- More logging to be able to diagnose and troubleshoot mentioned conditions
+- Add stack trace and memory snapshot to remote logger
+- Use 'default' WebView caching to improve orca loadUrl performance
+
 ## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.2.9">v3.2.9</a>
 - Ability to detect if the app is a react native integration and it’s plugin version
 - Ability to detect if underlying survey subsystem has encountered errors and recover and/or fail gracefully.
