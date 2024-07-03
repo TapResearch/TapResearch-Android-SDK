@@ -3,6 +3,10 @@
 
 (click on the version to see the repository artifacts, aar files, etc)
 
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.3.1">v3.3.1</a>
+- allow orca (remote platform) to be able set dim-able transparent background for interstitials and quick questions (not banners)
+- additional 'optionalParentActivity' added to showContentForPlacement as optional parameter (non-protocol breaking)
+
 ## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.3.0">v3.3.0</a>
 - Handle rare error conditions gracefully, such as the unforeseen inability to create new WebView object
 - More logging to be able to diagnose and troubleshoot mentioned conditions
