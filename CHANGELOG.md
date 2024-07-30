@@ -3,6 +3,14 @@
 
 (click on the version to see the repository artifacts, aar files, etc)
 
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.4.0">v3.4.0</a> 
+• added new sdk methods to increase flexibility for publishers:  
+  • setRewardListener  
+  • setQuickQuestionListener  
+  • isInitialized
+• parameter names have changed; protocol changing
+• stability improvements
+
 ## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.3.3">v3.3.3</a> 
 - Improved internal logging.
 
