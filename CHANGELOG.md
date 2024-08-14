@@ -3,6 +3,11 @@
 
 (click on the version to see the repository artifacts, aar files, etc)
 
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.3.4">v3.3.4</a>
+- Added TapResearch.isReady() that indicates if the SDK is ready for use
+- Fixed bug when trying to re-initialize the SDK after initially failing from being in airplane mode or no internet
+- Stability improvements
+
 ## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.3.3">v3.3.3</a> 
 - Improved internal logging.
 
