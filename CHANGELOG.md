@@ -3,6 +3,22 @@
 
 (click on the version to see the repository artifacts, aar files, etc)
 
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.5.2">v3.5.2</a>
+- Fixed edge-case crash in Survey Wall onDestroy
+ 
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.5.1">v3.5.1</a>
+- Fixed Survey Wall insets UI issue for apps that target Android api 35+ running on Android 15 devices
+- Fixed back button issue when enableOnBackInvokedCallback = true in AndroidManifest.xml
+
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.5.0">v3.5.0</a>
+- Added TapResearch.setRewardCallback public api
+- Added app set ID for better play store app tracking
+
+## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.4.1">v3.4.1</a>
+- added init_timestamp and is_revive=1 flag to orca sdk url for improved performance monitoring
+- suppress orca dropped-connected error being surfaced back to publisher, capture event instead
+- fixed edge-case crash on start-up
+
 ## <a href="https://artifactory.tools.tapresearch.io/artifactory/webapp/#/artifacts/browse/tree/General/tapresearch-android-sdk/com/tapresearch/tapsdk/3.4.0">v3.4.0</a>
 • New feature: Wall Preview Offer Type
   - TapResearch.getSurveysForPlacement
