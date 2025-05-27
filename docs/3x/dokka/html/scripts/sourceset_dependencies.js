@@ -1,1 +1,0 @@
-sourceset_dependencies='{":tapsdk:dokkaHtml/debug":[],":tapsdk:dokkaHtml/debugCUSTOM":[],":tapsdk:dokkaHtml/debugHOTH":[],":tapsdk:dokkaHtml/debugPROD":[],":tapsdk:dokkaHtml/main":[],":tapsdk:dokkaHtml/release":[]}'
