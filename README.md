@@ -20,7 +20,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
 
   ```groovy
     dependencies {
-      implementation("com.tapresearch:tapsdk:3.5.3")
+      implementation("com.tapresearch:tapsdk:3.6.0")
       implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0"
       implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1'
       implementation 'androidx.core:core-ktx:1.10.1'
