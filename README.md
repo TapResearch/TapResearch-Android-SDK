@@ -13,6 +13,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
 
   ```groovy
   repositories {
+      mavenCentral()  // most likely, mavenCentral() is already in your project
       maven { url "https://artifactory.tools.tapresearch.io/artifactory/tapresearch-android-sdk/" }
     }
   ```
