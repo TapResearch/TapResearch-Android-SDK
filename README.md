@@ -17,7 +17,7 @@ Add the following to the repositories closure of the app's module `build.gradle`
       maven { url "https://artifactory.tools.tapresearch.io/artifactory/tapresearch-android-sdk/" }
     }
   ```
-  Next, add the following to the dependencies' closure:
+  Next, add the following to the dependencies closure:
 
   ```groovy
     dependencies {
